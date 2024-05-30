@@ -20,7 +20,7 @@ provide them with insights from their historical data.
 
 ## Table of Content
 
-① Raw Datasets [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Atliq_Hospitality_Analysis_Project/Hospitality_datasets)
+① Raw Datasets [Link](https://github.com/Urvashitomar20/data-analyst-internship/tree/main/Atliq_Hospitality_Analysis_Project/Hospitality_datasets)
 
 ② Datasets Loading, Cleaning and Data Preprocessing [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Datasets%20Loading%2C%20Cleaning%20%26%20Data%20Preprocessing.ipynb)
 
