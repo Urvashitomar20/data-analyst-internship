@@ -20,11 +20,11 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
 
-⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
+⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
 
-⑦ Amazon Sales Data Insights (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf)
+⑦ Amazon Sales Data Insights (PDF File) [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf)
 
-⑧ Amazon Sales Data Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20Data%20Report.pdf)
+⑧ Amazon Sales Data Report [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Project%201_Analyzing%20Amazon%20Sales%20data.pdf)
 
 ## Mock-up Dashboard
 
