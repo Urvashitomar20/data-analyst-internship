@@ -14,11 +14,11 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ② Data Cleaning and Data Preprocessing [link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)
 
-③ Clean Data [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Clean_Amazon_Sales_data.csv)
+③ Clean Data [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Clean_Amazon_Sales_data.csv)
 
-④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.docx)
+④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.docx)
 
-⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
+⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
 
 ⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
 
