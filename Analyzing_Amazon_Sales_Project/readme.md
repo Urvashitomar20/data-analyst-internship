@@ -12,7 +12,7 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ① Raw Dataset [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20data.csv)
 
-② Data Cleaning and Data Preprocessing [link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)
+② Data Cleaning and Data Preprocessing [link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Analyzing_Amazon_Sales_Project/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)
 
 ③ Clean Data [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Clean_Amazon_Sales_data.csv)
 
