@@ -1,6 +1,6 @@
 # Analyzing Amazon Sales Data Project
 
-![Screenshot 2024-03-06 165450](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e41a67fd-d04f-4062-bbfa-4e5891493036)
+![Screenshot 2024-03-06 165450](https://https://github.com/Urvashitomar20/data-analyst-internship/tree/main/Analyzing_Amazon_Sales_Project)
 
 ## Problem Statement:
 Sales management has gained importance to meer increasing competition and the need for improvement methods of distribution to reduce cost to increase profits. Sales management today is the most important function in a commercial and business enterprices.
