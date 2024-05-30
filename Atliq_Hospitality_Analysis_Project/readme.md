@@ -22,11 +22,11 @@ provide them with insights from their historical data.
 
 ① Raw Datasets [Link](https://github.com/Urvashitomar20/data-analyst-internship/tree/main/Atliq_Hospitality_Analysis_Project/Hospitality_datasets)
 
-② Datasets Loading, Cleaning and Data Preprocessing [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Datasets%20Loading%2C%20Cleaning%20%26%20Data%20Preprocessing.ipynb)
+② Datasets Loading, Cleaning and Data Preprocessing [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Atliq_Hospitality_Analysis_Project/Datasets%20Loading,%20Cleaning%20&%20Data%20Preprocessing.ipynb)
 
-③ Clean Datasets [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Atliq_Hospitality_Analysis_Project/Clean_Hospitality_datasets)
+③ Clean Datasets [Link](https://github.com/Urvashitomar20/data-analyst-internship/tree/main/Atliq_Hospitality_Analysis_Project/Clean_Hospitality_datasets)
 
-④ Atliq Hospitality Analysis Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Atliq%20Hospitality%20Analysis%20Report.pdf)
+④ Atliq Hospitality Analysis Report [Link](https://github.com/Urvashitomar20/data-analyst-internship/blob/main/Atliq_Hospitality_Analysis_Project/Atliq%20Hospitality%20Analysis%20Report%20(1).pdf)
 
 # Mock-up Dashboard
 
