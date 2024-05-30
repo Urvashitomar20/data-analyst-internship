@@ -16,7 +16,7 @@ insights. Their revenue management team had decided to hire a 3rd party service 
 provide them with insights from their historical data.
 
 ## Project detail below:
-[Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Project%209_%20AtliQ%20Hospitality%20Analysis.pdf)
+[Link](https://github.com/Urvashitomar20/data-analyst-internship/edit/main/Atliq_Hospitality_Analysis_Project/readme.md)
 
 ## Table of Content
 
